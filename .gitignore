@@ -1,0 +1,7 @@
+# ignore system file
+.DS_Store
+.classpath
+.gradle/
+.project
+
+
